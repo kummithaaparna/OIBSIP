@@ -18,7 +18,7 @@ try:
         elif bmi < 30:
             print("Category: Overweight")
         else:
-            print("Category: Obese")
+            print("Category: Obesity")
 
 except ValueError:
     print("Please enter valid numeric values.")
