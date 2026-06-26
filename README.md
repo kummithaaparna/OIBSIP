@@ -1,18 +1,16 @@
-# OIBSIP - Oasis Infobyte Python Internship
+# BMI Calculator
 
-## Intern Details
-**Name:** Kummitha Venkata Sai Lakshmi Aparna
+## Project Description
+This is a Python BMI Calculator developed as part of the Oasis Infobyte Python Programming Internship.
 
-## Internship Track
-Python Programming
-
-## Projects
-1. BMI Calculator ✅
-2. Random Password Generator (Coming Soon)
-3. Weather App (Coming Soon)
+## Features
+- Calculates Body Mass Index (BMI)
+- Displays BMI category
+- Validates user input
+- Allows multiple BMI calculations
 
 ## Technologies Used
 - Python
 
-## About
-This repository contains the Python projects completed as part of the Oasis Infobyte Python Programming Internship.
+## Author
+Kummitha Venkata Sai Lakshmi Aparna
