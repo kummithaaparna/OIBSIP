@@ -20,7 +20,7 @@ while True:
         elif bmi < 30:
             print("Category: Overweight")
         else:
-            print("Category: Obese")
+            print("Category: Obesity")
 
         choice = input("\nDo you want to calculate again? (yes/no): ").lower()
 
